@@ -1,10 +1,10 @@
 # CampyGStyper
-Campylobacter Gnomic Species Typer. A python script for accurate assignment of ANI genomic species to Campylobacter genomes. 
+Campylobacter Genomic Species Typer. A python script for accurate assignment of ANI genomic species to Campylobacter genomes. 
 
 
 ## Installation
 
-### with conda/mamba - NOT YET AVAILABLE
+### with conda/mamba
 
 `conda install -c bioconda campygstyper`
 
